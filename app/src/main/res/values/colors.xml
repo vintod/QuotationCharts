@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="minute_grayLine">#2D3945</color>
+    <color name="minute_blue">#00D0FC</color>
+    <color name="minute_yellow">#E7B448</color>
+    <color name="minute_black">#101419</color>
+    <color name="minute_jizhun">#7F9976</color>
+    <color name="minute_zhoutv">#858D93</color>
+    <color name="marker_bg">#1C232E</color>
+
+    <!--add by hou-->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="line">#dedede</color>
+    <color name="raisered">#f11600</color>
+    <color name="fallgreen">#2d6712</color>
+    <color name="titlebg">#e93030</color>
+    <color name="magin">#f5f5f5</color>
+    <color name ="gray66">#ff666666</color>
+    <color name="tryout">#fe9500</color>
+
+
+    <color name="fivedayavgline">#ff2d2d2d</color>
+    <color name="tendayavgline">#ffFF80FF</color>
+    <color name="twentydayavgline">#ffCC0000</color>
+    <color name="thirtydayavgline">#ff0AB500</color>
+    <color name="fortydayavgline">#ff00FFFF</color>
+    <color name="fiftydayavgline">#ffFFA500</color>
+    <color name="sixtydayavgline">#ffFF00FF</color>
+</resources>
